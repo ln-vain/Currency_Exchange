@@ -14,11 +14,6 @@ This is a simple console application written in C# that simulates a basic curren
 
 - 1 USD = 78 RUB (fixed rate)
 
-## Technologies Used
-
-- Programming language: C#
-- Platform: .NET Console Application
-
 ## How to Run the Program
 
 1. Clone the repository or download the source code.
